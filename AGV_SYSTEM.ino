@@ -173,4 +173,4 @@ void loop()
 }
 
 //End of code
-//NUR AZIELA SUHAIMI
+//Credit to NUR AZIELA SUHAIMI Rev. 1.0
